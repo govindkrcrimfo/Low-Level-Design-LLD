@@ -10,23 +10,37 @@
 
 **4.KISS ->**  Keep it simple , stupid.
 
+
 ### Types of Design pattern :-
 **1.Creational Design pattern**
 
 **2.Structural Design pattern**
 
-**3.Behavioural Design pattern**
+**3.Behavioral Design pattern**
+
    
 ### Types of Creational Design pattern (5) :- 
-1.Singleton Desing pattern (Important)
+1.Singleton Desing pattern **(Important)**
 
-2.Builder    (Important)
+2.Builder    **(Important)**
 
-3.Factory    (Important)
+3.Factory    **(Important)**
 
 4.Abstract Factory 
 
 5.Prototype 
+
+### Types of Behavioral Design pattern (10) :- 
+1. Strategy Design Pattern **(Important)**
+2. Observer **(Important)**
+3. State **(Important)**
+4. Chain of Responsibility  **(Important)**
+5. Iterator
+6. Command 
+7. Mediator
+8. Template
+9. Visitor
+10. Memento 
 
 
 
