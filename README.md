@@ -21,13 +21,9 @@
    
 ### Types of Creational Design pattern (5) :- 
 1.Singleton Desing pattern **(Important)**
-
 2.Builder    **(Important)**
-
 3.Factory    **(Important)**
-
 4.Abstract Factory 
-
 5.Prototype 
 
 ### Types of Behavioral Design pattern (10) :- 
