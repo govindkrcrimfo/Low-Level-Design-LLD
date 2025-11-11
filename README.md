@@ -21,22 +21,37 @@
    
 ### Types of Creational Design pattern (5) :- 
 1.Singleton Desing pattern **(Important)**
+
 2.Builder    **(Important)**
+
 3.Factory    **(Important)**
+
 4.Abstract Factory 
+
 5.Prototype 
+
 
 ### Types of Behavioral Design pattern (10) :- 
 1. Strategy Design Pattern **(Important)**
 2. Observer **(Important)**
-3. State **(Important)**
-4. Chain of Responsibility  **(Important)**
+3.  Chain of Responsibility  **(Important)**
+4. State **(Important)**
 5. Iterator
 6. Command 
 7. Mediator
 8. Template
 9. Visitor
-10. Memento 
+10. Memento
+
+
+### Types of Structural Design pattern (7) :- 
+1. Adapter Design Pattern  **(Important)**
+2. Decorator  **(Important)**
+3. Proxy  **(Important)**
+4. Facade  **(Important)**
+5. Flyweight design Pattern
+6. Bridge Design Pattern
+7. Composite Design Pattern
 
 
 
